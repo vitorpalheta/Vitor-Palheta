@@ -12,4 +12,5 @@
 
 - git push e pull
 
-  
+
+Finalizado alterações para subir o projeto do desafio!
